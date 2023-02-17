@@ -1,7 +1,6 @@
 import time
 import pandas as pd
 
-# test sourcetree2
 if __name__ == "__main__":
     while True:
         try:
